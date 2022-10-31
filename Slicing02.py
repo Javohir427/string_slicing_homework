@@ -6,6 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[-5:-1]
+    return s[-4:]
 
-print(main('sddfrg1234'))
+print(main('sddfrg1234'))     
