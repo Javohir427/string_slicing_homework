@@ -7,6 +7,6 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[0:-n] 
+    return s[:-n] 
 
 print(main("codeschooluz",3))
